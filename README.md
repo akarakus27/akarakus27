@@ -2,19 +2,16 @@
 
 <!--
 **akarakus27/akarakus27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akarakus27)
+[![Mail Badge](https://img.shields.io/badge/abdulkadirkarakus27@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:abdulkadirkarakus27@gmail.com)](mailto:abdulkadirkarakus27@gmail.com)
 
-Here are some ideas to get you started:
+# Develop
+# Interests
+[![](https://img.shields.io/badge/python-cD1?style=for-the-badge&logo=python)]()
+[![](https://img.shields.io/badge/pandas-cD1?style=for-the-badge&logo=pandas)]()
+[![](https://img.shields.io/badge/Tensorflow-cD1?style=for-the-badge&logo=tensorflow)]()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-@@ -12,12 +12,12 @@
+ 
 ![Visitor Count](https://profile-counter.glitch.me/akarakus27/count.svg)
 
 # Interests
