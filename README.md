@@ -1,15 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abdulkadir Karakuş</h1>
-<h3 align="center">Data Scientist Candidate</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akarakus27" alt="akarakus27" /> </p>
 
-- 🔭 I’m currently working on **Data Science**
 
-- 🌱 I’m currently learning **Flask, Data Science ,Machine Learning, Keras**
-
-- 👯 I’m looking to collaborate on **Data Science ,Machine Learning**
-
-- 🤝 I’m looking for help with **Data Science ,Machine Learning**
 
 - 📫 How to reach me **abdulkadirkarakus27@gmail.com**
 
