@@ -12,8 +12,8 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarakus27/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/A_karakus27/)
 
-### Blogs posts
-<h2 align="center"><details><summary>Recent Medium Blog Posts</summary>
+
+   <h2 align="center"><details><summary>Recent Medium Blog Posts</summary>
    
    <p align="center"> 
       <a href="https://medium.com/@akarakus27/k-means-algoritmas%C4%B1-d81f19458e06">K-Means Algoritması</a>    </p>
@@ -21,8 +21,7 @@
       <a href="https://medium.com/deep-learning-turkiye/k%C3%BCmeleme-6ca62face492">KÜMELEME (Clustering)</a>
    </p>
   
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 <p align="left"><img
 g src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p><p><img 
