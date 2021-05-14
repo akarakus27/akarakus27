@@ -13,14 +13,7 @@
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/A_karakus27/)
 
 
- <h2 align="center"><details><summary>Recent Medium Blog Posts</summary>
-   
-   <p align="center"> 
-      <a href="https://medium.com/@akarakus27/k-means-algoritmas%C4%B1-d81f19458e06">K-Means Algoritması</a>    
-   </p>
-   <p align="center">
-      <a href="https://medium.com/deep-learning-turkiye/k%C3%BCmeleme-6ca62face492">KÜMELEME (Clustering)</a>
-   </p>
+ 
   
 
 <p align="left"><img
