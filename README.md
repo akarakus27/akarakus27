@@ -16,13 +16,11 @@
 <h2 align="center"><details><summary>Recent Medium Blog Posts</summary>
    
    <p align="center"> 
-      <a href="https://medium.com/kaveai/matematiği-ve-python-uygulamasıyla-lightgbm-hafif-gradyan-artırma-makinesi-18d2f12e7870">Matematiği ve Python Uygulamasıyla LightGBM</a>    </p>
+      <a href="https://medium.com/@akarakus27/k-means-algoritmas%C4%B1-d81f19458e06">K-Means Algoritması</a>    </p>
    <p align="center">
-      <a href="https://medium.com/deeplab-tech/python-ile-film-yorumlarının-duygu-analizi-250870ee175c">Python ile Film Yorumlarının Duygu Analizi</a>
+      <a href="https://medium.com/deep-learning-turkiye/k%C3%BCmeleme-6ca62face492">KÜMELEME (Clustering)</a>
    </p>
-   <p align="center">
-      <a href="https://medium.com/deeplab-tech/python-ile-metin-ön-i̇şleme-wordcloud-word2vec-model-87b3e84abdfd">Python ile Metin Ön İşleme, WordCloud & Word2Vec Model</a>
-   </p>
+p>
   
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
