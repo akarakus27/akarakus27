@@ -20,7 +20,6 @@
    <p align="center">
       <a href="https://medium.com/deep-learning-turkiye/k%C3%BCmeleme-6ca62face492">KÜMELEME (Clustering)</a>
    </p>
-p>
   
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
