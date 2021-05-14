@@ -18,7 +18,16 @@
    </p>
 
 </details></h2>   
-   
+
+<h2> Programming Languages I know , Tools and Libraries </h2>
+<div>
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=flat&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=flat&logo=c-sharp&logoColor=white"/>
+<img src ="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=flat&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Numpy-%2312100E.svg?&style=flat&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white"/>
+  
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akarakus27" alt="akarakus27" /> </p> 
 <h2 align="center">GitHub Stats</h2>
