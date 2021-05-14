@@ -19,8 +19,6 @@ g src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="te
    
 <h2 align="center">GitHub Stats</h2>
 
-<p
-align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarakus27&layout=compact&hide=html"   alt="akarakus27" /></p>
  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akarakus27&show_icons=true&theme=tokyonight"  />
  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akarakus27&theme=tokyonight" />
 
