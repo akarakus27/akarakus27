@@ -10,12 +10,12 @@
 
 ## Technology Stack:
 
-[<img width="48%" align="left" alt="Python" width="70px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />][blog]
-[<img align="left" alt="Tensorflow" width="60px" src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" />][blog]
-[<img align="left" alt="Pytorch" width="70px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />][blog]
-[<img align="left" alt="GCP" width="70px" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" />][blog]
-[<img align="left" alt="Django" width="140px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />][blog]
-[<img align="left" alt="Yii2" width="70px" src="https://avatars0.githubusercontent.com/u/993323" />][blog]
+[<img align="left" alt="Python" width="70px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />]
+[<img align="left" alt="Tensorflow" width="60px" src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" />]
+[<img align="left" alt="Pytorch" width="70px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />]
+[<img align="left" alt="GCP" width="70px" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" />]
+[<img align="left" alt="Django" width="140px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />]
+[<img align="left" alt="Yii2" width="70px" src="https://avatars0.githubusercontent.com/u/993323" />]
 
 
    
