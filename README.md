@@ -8,10 +8,16 @@
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akarakus27/)
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/A_karakus27/)
 
+## Technology Stack:
 
-<p align="left"><img
-g src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p><p><img 
-</p> 
+[<img width="48%" align="left" alt="Python" width="70px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />][blog]
+[<img align="left" alt="Tensorflow" width="60px" src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" />][blog]
+[<img align="left" alt="Pytorch" width="70px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />][blog]
+[<img align="left" alt="GCP" width="70px" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" />][blog]
+[<img align="left" alt="Django" width="140px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />][blog]
+[<img align="left" alt="Yii2" width="70px" src="https://avatars0.githubusercontent.com/u/993323" />][blog]
+
+
    
 <h2 align="center"><details><summary>Recent Medium Blog Posts</summary>
    <p align="center"> 
