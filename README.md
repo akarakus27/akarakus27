@@ -28,7 +28,12 @@
 <img src="https://img.shields.io/badge/Numpy-%2312100E.svg?&style=flat&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=flat&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-%2312100E.svg?&style=flat&logo=django&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Keras-%2312100E.svg?&style=flat&logo=keras&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Keras-%2312100E.svg?&style=flat&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-%2312100E.svg?&style=flat&logo=selenium&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Jenkins-%2312100E.svg?&style=flat&logo=jenkins&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Postman-%2312100E.svg?&style=flat&logo=Postman&logoColor=orange"/>   
+   
+   
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akarakus27" alt="akarakus27" /> </p> 
 <h2 align="center">GitHub Stats</h2>
