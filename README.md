@@ -10,13 +10,10 @@
 
 ## Technology Stack:
 
-[<img align="left" alt="Python" width="70px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
-[<img align="left" alt="Tensorflow" width="60px" src="https://seeklogo.com/images/T/tensorflow-logo-02FCED4F98-seeklogo.com.png" />
-[<img align="left" alt="Pytorch" width="70px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" />
-[<img align="left" alt="GCP" width="70px" src="https://seeklogo.com/images/G/google-cloud-logo-ADE788217F-seeklogo.com.png" />
-[<img align="left" alt="Django" width="140px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />
-[<img align="left" alt="Yii2" width="70px" src="https://avatars0.githubusercontent.com/u/993323" />
-
+<p align="center">
+<img align="left" alt="Python" width="70px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" />
+<img align="left" alt="Django" width="140px" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" />
+</p
 <h2 align="center"><details><summary>Recent Medium Blog Posts</summary>
    <p align="center"> 
       <a href="https://medium.com/@akarakus27/k-means-algoritmas%C4%B1-d81f19458e06">K-Means Algoritması</a>    
