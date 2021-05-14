@@ -18,23 +18,11 @@ g src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="te
 </p> 
    
 <h2 align="center"><details><summary>Recent Medium Blog Posts</summary>
-   
-   <p align="center">
-      <a href="https://medium.com/deeplab-tech/kosinüs-benzerlik-algoritması-ve-kitap-önerileri-5123cf7c54c1">Kosinüs Benzerlik Algoritması ve Kitap Önerisi Uygulaması</a>
-   </p>
    <p align="center"> 
-      <a href="https://medium.com/kaveai/matematiği-ve-python-uygulamasıyla-lightgbm-hafif-gradyan-artırma-makinesi-18d2f12e7870">Matematiği ve Python Uygulamasıyla LightGBM</a>    </p>
-   <p align="center">
-      <a href="https://medium.com/deeplab-tech/python-ile-film-yorumlarının-duygu-analizi-250870ee175c">Python ile Film Yorumlarının Duygu Analizi</a>
+      <a href="https://medium.com/@akarakus27/k-means-algoritmas%C4%B1-d81f19458e06">K-Means Algoritması</a>    
    </p>
    <p align="center">
-      <a href="https://medium.com/deeplab-tech/python-ile-metin-ön-i̇şleme-wordcloud-word2vec-model-87b3e84abdfd">Python ile Metin Ön İşleme, WordCloud & Word2Vec Model</a>
-   </p>
-   <p align="center">
-      <a href="https://medium.com/deeplab-tech/python-ile-vikipedi-haber-sitelerinden-metin-kazıma-7a64f2e0e3a2">Python ile Vikipedi & Haber Sitelerinden Metin Kazıma</a>
-   </p>
-   <p align="center">
-      <a href="https://medium.com/kaveai/öneri-sistemleri-recommendation-systems-9c4d981d1750">Python ile Öneri Sistemleri</a>
+      <a href="https://medium.com/deep-learning-turkiye/k%C3%BCmeleme-6ca62face492">KÜMELEME (Clustering)</a>
    </p>
 
 </details></h2>   
