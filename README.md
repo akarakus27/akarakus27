@@ -26,4 +26,7 @@ align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akarakus27/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/akarakus27/" height="30" width="30" /></a>
 <a href="https://kaggle.com/https://www.kaggle.com/akarakus27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/akarakus27" height="30" width="30" /></a>
 <a href="https://medium.com/@akarakus27" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@akarakus27" height="30" width="30" /></a>
+  
+   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akarakus27&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akarakus27&theme=tokyonight" />
 </p>
