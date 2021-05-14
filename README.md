@@ -19,11 +19,9 @@
 <p align="left"><img
 g src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p><p><img 
 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarakus27&layout=compact&hide=html" alt="akarakus27" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akarakus27&show_icons=true" alt="akarakus27" /></p>
-
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=akarakus27&show_icons=true&theme=tokyonight" />
 
   
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=akarakus27&show_icons=true&theme=tokyonight" />
+
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akarakus27&theme=tokyonight" />
 </p>
