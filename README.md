@@ -13,6 +13,17 @@
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/A_karakus27/)
 
 ### Blogs posts
+<h2 align="center"><details><summary>Recent Medium Blog Posts</summary>
+   
+   <p align="center"> 
+      <a href="https://medium.com/kaveai/matematiği-ve-python-uygulamasıyla-lightgbm-hafif-gradyan-artırma-makinesi-18d2f12e7870">Matematiği ve Python Uygulamasıyla LightGBM</a>    </p>
+   <p align="center">
+      <a href="https://medium.com/deeplab-tech/python-ile-film-yorumlarının-duygu-analizi-250870ee175c">Python ile Film Yorumlarının Duygu Analizi</a>
+   </p>
+   <p align="center">
+      <a href="https://medium.com/deeplab-tech/python-ile-metin-ön-i̇şleme-wordcloud-word2vec-model-87b3e84abdfd">Python ile Metin Ön İşleme, WordCloud & Word2Vec Model</a>
+   </p>
+  
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
