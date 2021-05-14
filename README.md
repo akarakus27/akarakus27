@@ -1,10 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abdulkadir Karakuş</h1>
+<h2 align="center">Hi 👋, I'm Abdulkadir Karakuş</h2>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akarakus27" alt="akarakus27" /> </p>
 ## 📖  About Me
-
-
 - 📫 How to reach me **abdulkadirkarakus27@gmail.com**
 
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akarakus27)
@@ -27,7 +23,8 @@ g src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="te
 
 </details></h2>   
    
-   
+ 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akarakus27" alt="akarakus27" /> </p> 
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
