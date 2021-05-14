@@ -30,7 +30,7 @@
 <img src="https://img.shields.io/badge/Django-%2312100E.svg?&style=flat&logo=django&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Keras-%2312100E.svg?&style=flat&logo=keras&logoColor=white"/>
 <img src="https://img.shields.io/badge/Selenium-%2312100E.svg?&style=flat&logo=selenium&logoColor=white"/>
- <img src="https://img.shields.io/badge/Jenkins-%2312100E.svg?&style=flat&logo=jenkins&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Jenkins-%2312100E.svg?&style=flat&logo=jenkins&logoColor=red"/>
  <img src="https://img.shields.io/badge/Postman-%2312100E.svg?&style=flat&logo=Postman&logoColor=orange"/>   
    
    
