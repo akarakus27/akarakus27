@@ -2,6 +2,7 @@
 
 ## 📖  About Me
 <p align="center"> I'm currently working as a Predictive Qa Engineer. I graduated from Fırat University, Department of Software Engineering  
+   I’m currently working on Machine Learning, Deep Learning, Qa Engineer, CI/Cd system
 </p>
 
 - 📫 How to reach me **abdulkadirkarakus27@gmail.com**
