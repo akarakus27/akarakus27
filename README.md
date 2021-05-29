@@ -5,6 +5,7 @@
 - <p align="leftleft"> I’m currently working on Machine Learning, Deep Learning, Qa Engineer, CI/Cd systems  </p>
 - <p align="left"> I’m currently learning Keras,Docker, Django, New Technology</a></p>
  
+ 
 
 - 📫 How to reach me **abdulkadirkarakus27@gmail.com**
 
