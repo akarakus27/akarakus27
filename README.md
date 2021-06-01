@@ -45,9 +45,9 @@
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akarakus27" alt="akarakus27" /> </p> 
-<h2 align="center">GitHub Stats</h2>
 
+<h2 align="center">GitHub Stats</h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akarakus27" alt="akarakus27" /> </p> 
 <p align="center">
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akarakus27&show_icons=true&theme=tokyonight" />
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akarakus27&theme=tokyonight" />
