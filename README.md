@@ -51,7 +51,7 @@
 <p align="center">
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=akarakus27&show_icons=true&theme=tokyonight" />
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=akarakus27&theme=tokyonight" />
-   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarakus27&layout=compact&hide=html"  alt="akarakus27" />
+   <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akarakus27&layout=compact&hide=html"  alt="akarakus27" />
 </p
 
  
