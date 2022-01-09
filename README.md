@@ -34,7 +34,8 @@
 <img src="https://img.shields.io/badge/Numpy-%2312100E.svg?&style=flat&logo=numpy&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-%2312100E.svg?&style=flat&logo=django&logoColor=white"/>  
 <img src="https://img.shields.io/badge/Keras-%2312100E.svg?&style=flat&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/Selenium-%2312100E.svg?&style=flat&logo=selenium&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Selenium-%2312100E.svg?&style=flat&logo=selenium&logoColor=white"/>
+<img src ="https://img.shields.io/badge/scala%20-%23150458.svg?&style=flat&logo=scala&logoColor=red%22"/>
 </div>
 <div>
  <img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=flat&logo=c-sharp&logoColor=white"/>
