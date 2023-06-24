@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Abdulkadir Karakuş</h2>
 
 ## 📖  About Me
-- <p align="left"> I'm currently working as a Predictive Qa Engineer. I graduated from Fırat University, Department of Software Engineering </p>
+- <p align="left"> I'm currently working as a Data Engineer. I graduated from Fırat University, Department of Software Engineering </p>
 - <p align="leftleft"> I’m currently working on Machine Learning, Deep Learning, Data Engineer,Data Analytics,CI/Cd systems  </p>
 - <p align="left"> I’m currently learning Keras,Docker,AWS, Django,Automaiton Test and Load Test New Technology</a></p>
  
