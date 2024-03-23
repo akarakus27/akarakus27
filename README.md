@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **abdulkadirkarakus27@gmail.com**
 
-[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@akarakus27)
+[![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://abdulkadirkarakus.medium.com/)
 [![](https://img.shields.io/badge/Kaggle-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/akarakus27)
 [![](https://img.shields.io/badge/Data%20Science%20Earth-%2312100E.svg?&style=flat)](https://www.datasciencearth.com/author/abdulkadirkarakus/)
 [![](https://img.shields.io/badge/-Hackerrank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/abdulkadirkarak1)
