@@ -25,6 +25,23 @@
    <p align="center">
       <a href="https://medium.com/deep-learning-turkiye/k%C3%BCmeleme-6ca62face492">KÜMELEME (Clustering)</a>
    </p>
+   <p align="center">
+      <a href="https://abdulkadirkarakus.medium.com/churn-projesi-m%C3%BC%C5%9Fteri-terk-tahmini-efb655e06033">Churn Projesi: Müşteri Terk Tahmini
+   </a>
+   </p>
+   <p align="center">
+      <a href="https://abdulkadirkarakus.medium.com/lambda-vs-kappa-in-depth-comparison-of-data-processing-architectures-7c12572bb7c7"> EN -Lambda vs. Kappa: In-Depth Comparison of Data Processing Architectures</a>
+   </p>
+   <p align="center">
+      <a href="https://abdulkadirkarakus.medium.com/lambda-vs-kappa-veri-i%CC%87%C5%9Fleme-mimarileri-aras%C4%B1ndaki-detayl%C4%B1-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma-d957437547ad">TR -Lambda vs. Kappa: Veri İşleme Mimarileri Arasındaki Detaylı Karşılaştırma</a>
+   </p>
+   <p align="center">
+      <a href="https://medium.com/deep-learning-turkiye/k%C3%BCmeleme-6ca62face492">KÜMELEME (Clustering)</a>
+   </p>
+   <p align="center">
+      <a href="https://abdulkadirkarakus.medium.com/key-to-success-in-data-engineering-projects-a-comprehensive-guide-ec32b33f98b9">Key to Success in Data Engineering Projects: A Comprehensive Guide</a>
+   </p>
+   
 
 </details></h2>   
 
