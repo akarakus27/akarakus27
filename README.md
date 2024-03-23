@@ -36,7 +36,7 @@
       <a href="https://abdulkadirkarakus.medium.com/lambda-vs-kappa-veri-i%CC%87%C5%9Fleme-mimarileri-aras%C4%B1ndaki-detayl%C4%B1-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma-d957437547ad">TR -Lambda vs. Kappa: Veri İşleme Mimarileri Arasındaki Detaylı Karşılaştırma</a>
    </p>
    <p align="center">
-      <a href="https://medium.com/deep-learning-turkiye/k%C3%BCmeleme-6ca62face492">KÜMELEME (Clustering)</a>
+      <a href="https://abdulkadirkarakus.medium.com/sql-tetikleyiciler-veritaban%C4%B1n%C4%B1z%C4%B1-otomatikle%C5%9Ftirmenin-g%C3%BCc%C3%BC-765cdb377365">SQL Tetikleyiciler: Veritabanınızı Otomatikleştirmenin Gücü</a>
    </p>
    <p align="center">
       <a href="https://abdulkadirkarakus.medium.com/key-to-success-in-data-engineering-projects-a-comprehensive-guide-ec32b33f98b9">Key to Success in Data Engineering Projects: A Comprehensive Guide</a>
