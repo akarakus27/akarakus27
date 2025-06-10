@@ -1,0 +1,27 @@
+name: Lint README
+
+on:
+  push:
+    paths:
+      - README.md
+      - tests/**
+      - .github/workflows/**
+  pull_request:
+    paths:
+      - README.md
+      - tests/**
+      - .github/workflows/**
+
+jobs:
+  markdown-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Install mdformat
+        run: pip install mdformat
+      - name: Run linter
+        run: ./tests/lint_readme.sh
