@@ -93,15 +93,14 @@
 
 ---
 
-## ✍️ Selected Medium Articles
+## ✍️ Latest Medium Articles
 
-- [K-Means Algoritması](https://medium.com/@akarakus27/k-means-algoritmas%C4%B1-d81f19458e06)
-- [KÜMELEME (Clustering)](https://medium.com/deep-learning-turkiye/k%C3%BCmeleme-6ca62face492)
-- [Churn Projesi: Müşteri Terk Tahmini](https://abdulkadirkarakus.medium.com/churn-projesi-m%C3%BC%C5%9Fteri-terk-tahmini-efb655e06033)
-- [Lambda vs. Kappa: In-Depth Comparison of Data Processing Architectures](https://abdulkadirkarakus.medium.com/lambda-vs-kappa-in-depth-comparison-of-data-processing-architectures-7c12572bb7c7)
-- [Lambda vs. Kappa: Veri İşleme Mimarileri Arasındaki Detaylı Karşılaştırma](https://abdulkadirkarakus.medium.com/lambda-vs-kappa-veri-i%CC%87%C5%9Fleme-mimarileri-aras%C4%B1ndaki-detayl%C4%B1-kar%C5%9F%C4%B1la%C5%9Ft%C4%B1rma-d957437547ad)
-- [SQL Tetikleyiciler: Veritabanınızı Otomatikleştirmenin Gücü](https://abdulkadirkarakus.medium.com/sql-tetikleyiciler-veritaban%C4%B1n%C4%B1z%C4%B1-otomatikle%C5%9Ftirmenin-g%C3%BCc%C3%BC-765cdb377365)
-- [Key to Success in Data Engineering Projects: A Comprehensive Guide](https://abdulkadirkarakus.medium.com/key-to-success-in-data-engineering-projects-a-comprehensive-guide-ec32b33f98b9)
+- [Optimize and Analyze Commands: How to Prepare Your MySQL Tables for Performance](https://abdulkadirkarakus.medium.com/optimize-and-analyze-commands-how-to-prepare-your-mysql-tables-for-performance-7b00a79b330a)
+- [Mastering Git Cherry-Pick: Selectively Applying Commits Across Branches](https://abdulkadirkarakus.medium.com/mastering-git-cherry-pick-selectively-applying-commits-across-branches-11ff88dbcd24)
+- [My Journey to Data Engineering Certification: What I Learned and What You Can Expect to Learn](https://abdulkadirkarakus.medium.com/my-journey-to-data-engineering-certification-what-i-learned-and-what-you-can-expect-to-learn-ff566cde7505)
+- [Understanding Airflow Task Groups: A Comprehensive Guide](https://abdulkadirkarakus.medium.com/understanding-airflow-task-groups-a-comprehensive-guide-c5583e1ea874)
+- [Veri Neden Önemli? Veri Mühendisi ve Veri Bilimcisi Ne İş Yapar?](https://abdulkadirkarakus.medium.com/veri-neden-%C3%B6nemli-veri-m%C3%BChendisi-ve-veri-bilimcisi-ne-i%CC%87%C5%9F-yapar-fd363cc9cbc5)
+- [Using SQL in Airflow DAGs](https://abdulkadirkarakus.medium.com/using-sql-in-airflow-dags-446de53c9e49)
 
 ---
 
